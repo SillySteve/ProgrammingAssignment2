@@ -104,18 +104,20 @@ In order to complete this assignment, you must do the following:
 
 This assignment will be graded via peer assessment.
 
-## makeCacheMatrix 
-##    will take a matrix as an input and cache the 
-##    matrix if it does not already exist
-##    
-##    paramters
-##      x - matrix object
-##      returns the cache matrix
+### Assignment 2 Follwoing functions  implemented
 
-## cacheSolve 
-##    will take a matrix as an input and return the inverse 
-##    if wukk cache the result 
-##    
-##    paramters
-##      x - matrix object
-##      returns the cache matrix
+ makeCacheMatrix 
+    will take a matrix as an input and cache the 
+    matrix if it does not already exist
+    
+    paramters
+      x - matrix object
+      returns the cache matrix
+
+ cacheSolve 
+    will take a matrix as an input and return the inverse 
+    if wukk cache the result 
+    
+    paramters
+      x - matrix object
+      returns the cache matrix
