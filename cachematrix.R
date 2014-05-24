@@ -32,7 +32,7 @@ makeCacheMatrix <- function(x = matrix()) {
   )
   return(cachem)
 }
-solve(a)
+
 
 ## cacheSolve 
 ##    will take a matrix as an input and return the inverse 
