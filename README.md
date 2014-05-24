@@ -104,7 +104,7 @@ In order to complete this assignment, you must do the following:
 
 This assignment will be graded via peer assessment.
 
-### Assignment 2 Follwoing functions  implemented
+### Assignment 2 Following functions  implemented
 
  makeCacheMatrix 
     will take a matrix as an input and cache the 
